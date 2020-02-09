@@ -42,7 +42,7 @@
 // }
 // console.log(sortItems(items));
 
-//6. Write a javascript program to find the most frequent item of an array.
+//6. Write a javascript program to find the most frequent item of an array.(not finished yet)
 
 const arr1 = [3, 'a', 'a', 'a', 2, 3, 'a', 3, 'a', 2, 4, 9, 3];
 arr1.sort();
